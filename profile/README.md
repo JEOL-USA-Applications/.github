@@ -4,4 +4,4 @@ We are happy that you are here and have an interest in automation for our instru
 
 Thank you for being part of the automation and scripting team for our instruments! This is the enterprise-level page for our organization. As we develop more automated solutions, repositories will become accessible for you to view and download code from for your own instruments.
 
-Feel free to reach out anytime to SEMapplications@jeol.com with any questions you may have. Happy scripting!
+Feel free to reach out anytime to SEMapplications@jeol.com or to Maddy directly at (mhoffmann@jeol.com) with any questions you may have. Happy scripting!
